@@ -1,5 +1,21 @@
-.App {
+@import url("https://fonts.googleapis.com/css2?family=Sora&display=swap");
+
+*{
+  font-family: "Sora", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+ 
+}
+
+.App{
+  background-color: black;
+}
+
+/* .App {
   text-align: center;
+  color: rgb(255, 255, 255);
+  
 }
 
 .App-logo {
@@ -14,7 +30,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #040405;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +51,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
